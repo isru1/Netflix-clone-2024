@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../../../../amazone clone"
+	},
+	{
+		"path": "../../../../../../melat/Amazon-Cone2022-main"
+	},
+	{
+		"path": "../../../.."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "New folder"
+  }
+}
